@@ -2,14 +2,6 @@
 
 Amar Nuhija
 
-12.1. bis 23.2.2024
-
-## Grob-Planung
-
-1. Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
-2. Was hatten Sie sich am Ende von LP2 vorgenommen? Was war Ihr VBV? Wie könnten Sie diesen besonders gut üben?
-3. Was wäre ein geeignetes Projekt würd diese LP3?
-
 ## 12.1.2024
 
 ## Leit-Satz
@@ -38,26 +30,14 @@ Heute habe ich mich darauf konzentriert, Feinschliffe meinem Code zu geben. Auch
 
 ## 26.1.2024
 
-- [ ] 
-- [ ] 
-- [ ]
-- [ ] 
-
-| Testfall-Nummer | Ausgangslage (Given)                                         | Eingabe (When)              | Ausgabe (Then) | Erfüllt? |
-| --------------- | ------------------------------------------------------------ | --------------------------- | -------------- | -------- |
-| 5               |                                                              |                             |                |          |
-| 7               | Spiel gestartet, Schlange lang genug, dass sie sich beissen kann | Schlange beisst sich selber | Spiel endet    |          |
-| 8               |                                                              |                             |                |          |
-
-Heute am 23.1 habe ich...
+## Leit-Satz
 
 
-## 16.2.2024
+Heute habe ich so gut wie möglich im Unterricht mitgearbeitet. Das Arbeitsklima war allgemein ruhiger, sodass man sich besser konzentrieren konnte. Herr Colic hat das Gespräch mit mir gesucht, um über meine bisherigen Programmierfortschritte zu sprechen. Letzte Woche habe ich bereits einen vollständigen Code für Tic-Tac-Toe auf GitHub hochgeladen. Heute habe ich ein anderes Programm begonnen und fast abgeschlossen. Außerdem habe ich den versäumten Unterricht der letzten Woche nachgeholt und dabei Befehle wie "Path" verwendet, um die einzelnen Zeichenketten aus Textdateien zu extrahieren.(109 Wörter)
 
-Heute am 23.1 habe ich... 
 
-## Reflexion
 
-Formen Sie Ihre Zusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhängenden Text von 100 bis 200 Wörtern (wieder mit Angabe in Klammern).
 
-Verfassen Sie zusätzlich einen kurzen Abschnitt, in welchem Sie über die Länge der Projekte reflektieren: Fanden Sie die 10-wöchtige LP2 oder die 4-wöchige LP3 angenehmer? Was bedeutet das für Ihre Planung der zukünftigen LP?
+
+
+
