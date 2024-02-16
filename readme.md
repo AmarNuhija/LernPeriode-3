@@ -40,6 +40,7 @@ Heute habe ich so gut wie möglich im Unterricht mitgearbeitet. Das Arbeitsklima
 ## REFLEXION LP-3
 
 
+In meinem ersten ernsthaften Versuch mit SQL habe ich eine faszinierende Welt des Datenmanagements betreten. Das Verstehen von Abfragen und Datenbankstrukturen eröffnete mir neue Möglichkeiten für effiziente Datenverarbeitung. Während dieser Phase konzentrierte ich mich vor allem auf die Weiterentwicklung der Module 117 und 164. Die Integration von SQL in mein Projekt erleichterte die Handhabung von Spielstatistiken und Spielergebnissen erheblich. Es war erfüllend zu sehen, wie meine neu erworbenen SQL-Kenntnisse das Gesamtbild meines Projekts verbesserten. Diese Erfahrung hat nicht nur mein Verständnis für Datenbanken erweitert, sondern auch meine Leidenschaft für die Programmierung vertieft.
 
 
 
